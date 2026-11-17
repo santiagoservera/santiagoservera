@@ -10,7 +10,7 @@ Desarrollo aplicaciones web y sistemas de gestión donde la ingeniería y el dis
 
 <br />
 
-<a href="https://kodloop.com">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://portfolio-santiago-servera.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/santiago-servera/">LinkedIn</a> &nbsp;·&nbsp;
 <a href="mailto:santiagoservera21@gmail.com">Email</a>
 
